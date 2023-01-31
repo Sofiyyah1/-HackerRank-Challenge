@@ -1,4 +1,4 @@
-# 30 Days of Code - JavaScript
+# 30 Days of Code using JavaScript
 
 > [HackerRank Challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code "HackRank")
 
