@@ -2,7 +2,7 @@
 
 > [HackerRank Challenge](https://www.hackerrank.com/domains/tutorials/30-days-of-code "HackRank")
 
-### Below is a table containing the link to the challange and the solution
+#### Below is a table containing the link to the challanges and the solutions
 
 | #   | Challenge                                                                           | Solution - JavaScript                                                    |
 | --- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
