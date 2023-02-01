@@ -11,7 +11,8 @@ s_2 = input()
 print(i + i_2)
 
 # Print the sum of the double variables on a new line.
-print(d + d_2)
+print(round((d + d_2), 1))
+
 
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
